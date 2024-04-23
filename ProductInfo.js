@@ -25,4 +25,4 @@ function ProductInfo({ id, name, price, description, onAddToCart }) {
   );
 }
 
-export default ProductInfo;
+export default ProductInf;
